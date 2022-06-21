@@ -22,7 +22,7 @@ For example, here you are able to see the comparisons between Successful, Failed
 Using this same data, I created a visual based on goals. 
 The data is separated by the several goal amount ranges, success, failed, canceled outcomes, along with "plays" as a subcategory.
 Here is the image created. 
-![Outcomes_Based_on_Goals](Resources/Outcomes_Based_on_Goals.png)
+![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
  
 ### Challenges and Difficulties Encountered
 
